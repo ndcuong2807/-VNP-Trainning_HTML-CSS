@@ -1,0 +1,13 @@
+.scroll-page {
+    height: calc(100vh + 500px);
+    width: 70%;
+    background-color: white;
+    border-radius: 4px;
+    z-index: 100;
+    margin: 70vh 15% 0px;
+    /* position: relative;
+    top: 70vh; */
+    /* bottom: 15vh; */
+    padding: 2rem;
+    overflow: hidden;
+}
